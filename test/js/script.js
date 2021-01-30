@@ -1,5 +1,6 @@
 "use strict";
 
-const category = 'toys';
+let x = 13140;
 
-console.log('www.ru/' + category)
+console.log(x/6);
+console.log(x/6);
